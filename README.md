@@ -43,6 +43,5 @@ Connect with me :
     
 </div>
  <img  src="https://raw.githubusercontent.com/jitenderji1137/jitenderji1137/main/snake.svg" alt="example" />
- <img  src="https://github-readme-activity-graph.cyclic.app/graph?username=Kaushik368&bg_color[
-](https://raw.githubusercontent.com/jitenderji1137/jitenderji1137/main/snake.svg)=0d0c0d&color=6acb1a&line=1cb5e9&point=f5f5f5&area=true&hide_border=true" alt="example" />
+ <img  src="https://github-readme-activity-graph.cyclic.app/graph?username=Kaushik368&bg_color=0d0c0d&color=6acb1a&line=1cb5e9&point=f5f5f5&area=true&hide_border=true" alt="example" />
 <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
