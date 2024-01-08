@@ -17,24 +17,7 @@ Connect with me :
  
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/jitender1137](https://www.linkedin.com/in/kaushik-biswas-881bb5183/)?original_referer=https%3A%2F%2Fwww.google.com%2F)]([https://www.linkedin.com/in/jitender1137](https://www.linkedin.com/in/kaushik-biswas-881bb5183/)?original_referer=https%3A%2F%2Fwww.google.com%2F)  [![Gmail Badge](https://img.shields.io/badge/-GMAIL-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaubis368@gmail.com)](mailto:kaubis368@gmail.com)
 
-   <div align="center">
-    <h2 align="center">🧑🏻‍💻 Tech-Stack and Tools</h2>
-   <br/>
-   <p>
-    <img src="https://img.shields.io/badge/-Cypress-311C87?style=for-the-badge&logo=apollo-cypress" alt="Cypress" />
-    <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python" alt="Python" />
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" /> 
-    <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap" alt="Bootstrap" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" /> 
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
-    <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui" />
-    <img src="https://img.shields.io/badge/-VScode-336791?style=for-the-badge&logo=VScode" alt="VScode" />
-    <img src="https://img.shields.io/badge/-Netlify-430098?style=for-the-badge&logo=Netlify" alt="Netlify" />
-   </p>
-</div>
+
 
   <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kaushik368&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;" width="100%">
